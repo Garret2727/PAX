@@ -1,0 +1,261 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp\Assembly-CSharp.dll
+-unsafe
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:Assets/assets1/Platformer/Distro/JsonFx.Json.dll
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_1_0
+-define:UNITY_2017_1
+-define:UNITY_2017
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_PVR_GI
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_RUNTIME_NAVMESH_BUILDING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_NATIVE_ARRAY
+-define:ENABLE_SPRITE_MASKING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_VIDEO
+-define:ENABLE_RMGUI
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_STYLE_SHEETS
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_2_0_SUBSET
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_NATIVE_ARRAY_CHECKS
+-define:UNITY_TEAM_LICENSE
+Assets/assets1/_Complete-Game/Scripts/BoardManager.cs
+Assets/assets1/_Complete-Game/Scripts/Enemy.cs
+Assets/assets1/_Complete-Game/Scripts/GameManager.cs
+Assets/assets1/_Complete-Game/Scripts/Loader.cs
+Assets/assets1/_Complete-Game/Scripts/MovingObject.cs
+Assets/assets1/_Complete-Game/Scripts/Player.cs
+Assets/assets1/_Complete-Game/Scripts/SoundManager.cs
+Assets/assets1/_Complete-Game/Scripts/Wall.cs
+"Assets/assets1/2D Platformer Controller/Scripts/Controller2D.cs"
+"Assets/assets1/2D Platformer Controller/Scripts/PlatformController.cs"
+"Assets/assets1/2D Platformer Controller/Scripts/Player.cs"
+"Assets/assets1/2D Platformer Controller/Scripts/PlayerInput.cs"
+"Assets/assets1/2D Platformer Controller/Scripts/RaycastController.cs"
+Assets/assets1/2d_Tds/Script/Tds_AutoDestruct.cs
+Assets/assets1/2d_Tds/Script/Tds_Character.cs
+Assets/assets1/2d_Tds/Script/Tds_DmgText.cs
+Assets/assets1/2d_Tds/Script/Tds_GameManager.cs
+Assets/assets1/2d_Tds/Script/Tds_Grid.cs
+Assets/assets1/2d_Tds/Script/Tds_HandAnimation.cs
+Assets/assets1/2d_Tds/Script/Tds_Items.cs
+Assets/assets1/2d_Tds/Script/Tds_Loot.cs
+Assets/assets1/2d_Tds/Script/Tds_Projectile.cs
+Assets/assets1/2d_Tds/Script/Tds_SoundList.cs
+Assets/assets1/2d_Tds/Script/Tds_Texture.cs
+Assets/assets1/2d_Tds/Script/Tds_Tile.cs
+Assets/assets1/2d_Tds/Script/Tds_TileCollider.cs
+Assets/assets1/2d_Tds/Script/Tds_TileSet.cs
+Assets/assets1/2d_Tds/Script/Tds_WeaponMenu.cs
+Assets/assets1/2d_Tds/Script/Tds_Weapons.cs
+"Assets/assets1/Black Knight/AnimationEvent.cs"
+"Assets/assets1/Black Knight/demo/UnitControl.cs"
+Assets/assets1/NinjaController/Scripts/NinjaController.cs
+Assets/assets1/NinjaController/Scripts/PhysicsParams.cs
+Assets/assets1/NinjaController/Scripts/PhysicsParamsContainer.cs
+Assets/assets1/Platformer/Distro/CreatureAsset.cs
+Assets/assets1/Platformer/Distro/CreatureFlatDataReader.cs
+Assets/assets1/Platformer/Distro/CreatureGameAgent.cs
+Assets/assets1/Platformer/Distro/CreatureGameController.cs
+Assets/assets1/Platformer/Distro/CreatureModule.cs
+Assets/assets1/Platformer/Distro/CreatureRenderer.cs
+Assets/assets1/Platformer/Distro/CreatureStateMachineBehavior.cs
+Assets/assets1/Platformer/Distro/CreatureSwitchItemPacket.cs
+Assets/assets1/Platformer/Distro/CreatureSwitchItemRenderer.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/anchorPointData.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/anchorPointsHolder.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animation.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationBone.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationBonesList.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationBonesTimeSample.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationClip.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationMesh.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationMeshList.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationMeshOpacity.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationMeshOpacityList.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationMeshOpacityTimeSample.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationMeshTimeSample.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationUVSwap.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationUVSwapList.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/animationUVSwapTimeSample.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/ByteBuffer.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/FlatBufferBuilder.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/FlatBufferConstants.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/mesh.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/meshRegion.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/meshRegionBone.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/Offset.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/rootData.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/skeleton.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/skeletonBone.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/Struct.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/Table.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/uvSwapItemData.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/uvSwapItemHolder.cs
+Assets/assets1/Platformer/Distro/FlatBuffersCSharp/uvSwapItemMesh.cs
+Assets/assets1/Platformer/Distro/MathHelper.cs
+Assets/assets1/Platformer/Distro/Matrix.cs
+Assets/assets1/Platformer/Distro/MerfolkGame.cs
+Assets/assets1/Platformer/Distro/MeshBone.cs
+Assets/assets1/Platformer/Distro/Quaternion.cs
+Assets/assets1/Platformer/Distro/RaptorGame.cs
+Assets/assets1/Platformer/Distro/Vector2.cs
+Assets/assets1/Platformer/Distro/Vector3.cs
+Assets/assets1/Platformer/Distro/Vector4.cs
+Assets/assets1/Platformer/Resources/BatAgent.cs
+Assets/assets1/Platformer/Resources/FoxAgent.cs
+Assets/assets1/Platformer/Resources/HorsemanAgent.cs
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs"
+"Assets/assets1/Platformer/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs"
+"Assets/assets1/Script for create 2D background with parallax/Script/BackGround/BackGround.cs"
+"Assets/assets1/Script for create 2D background with parallax/Script/BackGround/BackGroundLayer.cs"
+"Assets/assets1/Script for create 2D background with parallax/Script/Player Controller/Controller2d.cs"
+Assets/assets1/Scripts/BackgroundParallax.cs
+Assets/assets1/Scripts/BackgroundPropSpawner.cs
+Assets/assets1/Scripts/Bomb.cs
+Assets/assets1/Scripts/BombPickup.cs
+Assets/assets1/Scripts/CameraFollow.cs
+Assets/assets1/Scripts/Destroyer.cs
+Assets/assets1/Scripts/Enemy.cs
+Assets/assets1/Scripts/FollowPlayer.cs
+Assets/assets1/Scripts/Gun.cs
+Assets/assets1/Scripts/HealthPickup.cs
+Assets/assets1/Scripts/LayBombs.cs
+Assets/assets1/Scripts/Pauser.cs
+Assets/assets1/Scripts/PickupSpawner.cs
+Assets/assets1/Scripts/PlayerControl.cs
+Assets/assets1/Scripts/PlayerHealth.cs
+Assets/assets1/Scripts/Remover.cs
+Assets/assets1/Scripts/Rocket.cs
+Assets/assets1/Scripts/Score.cs
+Assets/assets1/Scripts/ScoreShadow.cs
+Assets/assets1/Scripts/SetParticleSortingLayer.cs
+Assets/assets1/Scripts/Spawner.cs
+Assets/assets1/TutorialInfo/Scripts/Readme.cs
+Assets/assets1/TutorialInfo/Scripts/TutorialInfo.cs
+"Assets/pax/2D ToonBear/Demo/Scripts/bearController.cs"
+"Assets/pax/2D ToonBear/Demo/Scripts/bearController1.cs"
+"Assets/pax/2D ToonBear/Demo/Scripts/bearController2.cs"
+"Assets/pax/2D ToonBear/Demo/Scripts/bearController3.cs"
+"Assets/pax/2D ToonBear/Demo/Scripts/bearController4.cs"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity
